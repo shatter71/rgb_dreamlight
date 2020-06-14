@@ -1,5 +1,5 @@
-# rgb_dreamclock
-Arduino code for operating RGB Dreamclock using a microphone as input
+# rgb_dreamlight
+Arduino code for operating RGB Dreamlight using a microphone as input
 
 https://www.thingiverse.com/thing:3641479
 
